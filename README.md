@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=00C9FF&background=00000000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;I'm+Sabarinath+S;Java+%26+Full-Stack+Developer;Open-Source+Contributor;Tech+Learner;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  </a>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff005c&height=80&section=header"/>
 
