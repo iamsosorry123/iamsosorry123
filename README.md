@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🎓 ECE Prefinal Year Student<br>💻 Passionate Java & Full-Stack Developer<br>🛠️ Currently working on Shop Management System (Java Swing + MySQL)<br>🌱 Learning Spring Boot, React, and Cloud Deployment<br>🎯 Goal: To build scalable apps and contribute to open-source projects
+🎓 ECE Prefinal Year Student<br>💻 Passionate Java & Full-Stack Developer<br>🌱 Learning Spring Boot, React, and Cloud Deployment<br>🎯 Goal: To build scalable apps and contribute to open-source projects
 
 
 ## 🌐 Socials:
