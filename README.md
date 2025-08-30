@@ -14,6 +14,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=👨‍💻+About+Me"/>
 </div>
+<br/>
 # 💫 About Me:
 🎓 ECE Prefinal Year Student<br>💻 Passionate Java & Full-Stack Developer<br>🌱 Learning Spring Boot, React, and Cloud Deployment<br>🎯 Goal: To build scalable apps and contribute to open-source projects
 
