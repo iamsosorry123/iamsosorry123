@@ -1,3 +1,21 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff005c&height=80&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=ff005c&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Sabarinath S;FullStack+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+<!-- Put the image FIRST so it sits to the top-right of the section -->
+<!-- invisible image acts as spacing -->
+<img align="right" src="https://dummyimage.com/40x1/00000000/00000000" width="40"/>
+<img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
+
+
+<!-- (Optional) Add one <br/> if you want the text to start a bit lower, making the image look higher -->
+<br/>
 # 💫 About Me:
 🎓 ECE Prefinal Year Student<br>💻 Passionate Java & Full-Stack Developer<br>🛠️ Currently working on Shop Management System (Java Swing + MySQL)<br>🌱 Learning Spring Boot, React, and Cloud Deployment<br>🎯 Goal: To build scalable apps and contribute to open-source projects
 
