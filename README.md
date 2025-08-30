@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabarinath-S&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarinath-S&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff005c&height=80&section=header"/>
 
 <div align="center">
