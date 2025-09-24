@@ -13,7 +13,7 @@
 <img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
 
 <br/>
-## 💫 About Me:
+💫 About Me:
 🎓 ECE Prefinal Year Student<br>💻 Passionate Java & Full-Stack Developer<br>🌱 Learning Spring Boot, React, and Cloud Deployment<br>🎯 Goal: To build scalable apps and contribute to open-source projects
 
 
